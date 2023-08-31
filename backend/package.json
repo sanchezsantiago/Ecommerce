@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This folder keeps the backend of the folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchezsantiago/Ecommerce.git"
+  },
+  "author": "SanchezSantiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanchezsantiago/Ecommerce/issues"
+  },
+  "homepage": "https://github.com/sanchezsantiago/Ecommerce#readme"
+}
